@@ -8,7 +8,11 @@ Pagination for post listings
 Organize posts with categories and tags
 Search functionality
 Integration with third-party APIs for dynamic content
+
+
 Technologies Used
+
+
 Django: Backend framework for models, views, and templates
 PostgreSQL: Production database
 Bootstrap: Responsive design
