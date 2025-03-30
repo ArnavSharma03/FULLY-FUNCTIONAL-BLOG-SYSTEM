@@ -1,6 +1,8 @@
 This project is a blog application built with Django. Users can create, manage, and interact with blog posts through comments and likes. It also includes user profile management and integrates data from third-party APIs.
 
 Features
+
+
 User registration, login, and profile management
 Create, edit, and delete blog posts
 Comment on and like posts
